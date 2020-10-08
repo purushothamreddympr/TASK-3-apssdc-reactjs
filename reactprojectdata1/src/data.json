@@ -1,0 +1,89 @@
+{
+	"details":[
+		{
+			"card":{
+				"name":"purushotham reddy mattileti",
+				"email":"purushothammattileti@gmail.com",
+				"mobile":"8524634569",
+				"description":"student",
+				"image":"avatar.png"
+			},
+			"careerobjective":{
+				"info1":"To become a software developer"
+			},
+		"ed1":{
+			"institute":"SISTK",
+			"degree":"B.Tech",
+			"passoutyear":"2020",
+			"percentage":"76%"
+			},
+		"ed2":{
+			"institute":"sri chaitanya",
+			"degree":"Intermediate",
+			"passoutyear":"2016",
+			"percentage":"90%"
+			},
+		"ed3":{
+			"institute":"sri chaitanya",
+			"degree":"SSC",
+			"passoutyear":"2014",
+			"percentage":"90"
+			},
+		"tech1":{
+			"title":"programming languages",
+			"info":"c,java,python,R"
+		},
+		"tech2":{
+			"title":"databases",
+			"info":"oracle,sql,mysql,TinyDb,mongoDb"
+		},
+		"tech3":{
+			"title":"operating systems",
+			"info":"unix,windows,Ubuntu"
+		},
+		"career":"I want to become a s/w developer"
+		},
+		{
+			"card":{
+				"name":"purushotham",
+				"email":"mproydevagan@gmail.com",
+				"mobile":"8524632569",
+				"description":"student"
+			},
+			"careerobjective":{
+				"info1":"To become a software developer"
+			},
+		"ed1":{
+			"institute":"SISTK",
+			"degree":"B.Tech",
+			"passoutyear":"2022",
+			"percentage":"88%"
+			},
+		"ed2":{
+			"institute":"sri chaitanya",
+			"degree":"Intermediate",
+			"passoutyear":"2018",
+			"percentage":"94%"
+			},
+		"ed3":{
+			"institute":"sri chaitanya",
+			"degree":"SSC",
+			"passoutyear":"2016",
+			"percentage":"95%"
+			},
+		"tech1":{
+			"title":"programming languages",
+			"info":"c,c++,java,python,R"
+		},
+		"tech2":{
+			"title":"databases",
+			"info":"oracle,sql,mysql,TinyDb,mongoDb"
+		},
+		"tech3":{
+			"title":"operating systems",
+			"info":"unix,windows,Ubuntu"
+		},
+			"career":"I want to become a s/w developer"
+		}
+	]
+}
